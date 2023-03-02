@@ -1,0 +1,30 @@
+bash-completion - Programmable completion for the bash shell
+bc - Arbitrary precision numeric processing language
+curl - Command line tool for transferring data with URL syntax
+diffutils - Programs (cmd, diff, diff3 and sdiff) related to finding differences between files
+dnsutils - Clients provided with BIND
+file - Command-line tool that tells you in words what kind of data a file contains
+inetutils - Collection of common network programs
+gh - GitHub the command line
+git - Open source distributed version control system
+golang - Open source go programming language
+jq - A lightweight and flexible command-line json processor
+linux-man-pages - Man pages for linux kernel and C library interfaces
+man - Man page viewer from the mandoc toolset
+micro - A modern and intuitive terminal-based text editor
+nmap - Network mapper for discovery and network security auditing
+nodejs - A javascript runtime built on chrome's v8 javascript engine
+openssh - Secure shell for logging into a remote machine
+openssl-tool - The openssl command line cryptographic tool
+php - A general-purpose server scripting language
+proot - A user-space implementation of chroot
+python - Python3 programming language
+python2 - Python2 programming language
+rsync - Utility that provides fast incremental file transfer
+tar - An archiving program to store multiple files in a single archive
+unzip - Tools for working with zip files
+wcalc - Capable calculator
+wget - Commandline tool for retrieving files using HTTP, HTTPS and FTP
+tar - GNU tar for manipulating tar archives
+zip - Tools for working with zip files
+zsh - Shell designed for interactive use, although it is also a powerful scripting language
